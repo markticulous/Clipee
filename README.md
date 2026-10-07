@@ -35,7 +35,8 @@ The full **User Guide** opens from **Settings → User Guide** inside Clipee.
 ## Your privacy
 
 - Your clips stay **on your PC only**, in an **encrypted** database.
-- Clipee **skips passwords** from password managers and anything that looks like an API key or token.
+- Clipee **skips passwords** from password managers and anything that looks like an API key or token. You choose, in Settings → Privacy.
+- **Ignore any app** in two clicks: pick it from a list of apps that have copied, or right-click one of its clips.
 - No account, no tracking, no analytics. The only network request is the daily update check to this page.
 
 ## Feedback
