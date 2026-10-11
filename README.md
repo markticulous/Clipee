@@ -39,6 +39,12 @@ The full **User Guide** opens from **Settings → User Guide** inside Clipee.
 - **Ignore any app** in two clicks: pick it from a list of apps that have copied, or right-click one of its clips.
 - No account, no tracking, no analytics. The only network request is the daily update check to this page.
 
+## Support Clipee
+
+Clipee is free and always will be, with no ads and no tracking. If it saves you time, you can [buy me a coffee on Ko-fi](https://ko-fi.com/markticulous) ([why I build these](https://markticulous.github.io/support/?app=clipee)). Supporters are thanked in [SUPPORTERS.md](SUPPORTERS.md).
+
+After your 500th paste Clipee shows one small thank-you card, once. **Don't ask again** means it, and nothing in Clipee is ever locked.
+
 ## Feedback
 
 Found a problem or have an idea? [Open an issue](https://github.com/markticulous/Clipee/issues).
