@@ -30,7 +30,7 @@ The full **User Guide** opens from **Settings → User Guide** inside Clipee.
 - **Pastes power-user style**: Ctrl+Alt+1…9 pastes your newest clips without opening anything, a paste stack fills forms one field at a time, and *Paste as* changes case, joins lines or tidies JSON.
 - **Reads text from screenshots** (OCR), and shows colour swatches for colour codes.
 - **Backs up** your history to a password-protected file, automatically if you like.
-- **Stays light**: about 10 MB of memory when idle.
+- **Stays light**: nothing runs while it waits, and it uses almost no processor time.
 
 ## Your privacy
 
